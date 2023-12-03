@@ -140,7 +140,7 @@ body {
     </div>
     <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
     <h3></h3>
-    <p><iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d11541.004568527896!2d-79.82908826890868!3d43.68454199503338!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sindian%20restaurants!5e0!3m2!1sen!2sca!4v1701217059770!5m2!1sen!2sca" width="300" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+    
     <div class="fakeimg" style="height:60px;">Image</div><br>
     <div class="fakeimg" style="height:60px;">Image</div><br>
     <div class="fakeimg" style="height:60px;">Image</div>
@@ -161,7 +161,8 @@ body {
   
 </div>
 <div class="footer">
-  <h2>Footer</h2>
+  <h2>Footer
+  <p><iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d11541.004568527896!2d-79.82908826890868!3d43.68454199503338!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sindian%20restaurants!5e0!3m2!1sen!2sca!4v1701217059770!5m2!1sen!2sca" width="300" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p></h2>
 </div>
 
 </body>
